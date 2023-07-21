@@ -14,13 +14,15 @@ The context:
 
 ![image](https://github.com/richieaj/auto-email-reply-palm-pdf/assets/87382894/efa5ca07-64eb-4925-b6ec-9b809274c784)
 
-The demo- question as a representation of email query: 
+The content has been extracted from the email: 
 
-![image](https://github.com/richieaj/auto-email-reply-palm-pdf/assets/87382894/393dff54-aa2e-4583-b51c-ea75ab074c2b)
+![image](https://github.com/richieaj/auto-email-reply-gpt3.5-pdf/assets/87382894/acb6d8ce-7e13-484b-9212-50feb3e12cdf)
+
 
 The generated e-mail reply: 
 
-![image](https://github.com/richieaj/auto-email-reply-palm-pdf/assets/87382894/380e19a3-5d20-4e0a-9022-6a0f473e1d97)
+![image](https://github.com/richieaj/auto-email-reply-gpt3.5-pdf/assets/87382894/743f4d4a-9a12-4374-88f0-95f4fc2a4470)
+
 
 
 # Seamless Communication Experience
